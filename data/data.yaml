@@ -1,0 +1,8 @@
+names:
+  - cattle
+  - donkey
+  - horse
+  - sheep
+nc: 4
+train: /Users/shukurullomeliboyev2004/Desktop/final/data/train/images
+val: /Users/shukurullomeliboyev2004/Desktop/final/data/valid/images
